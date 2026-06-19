@@ -327,8 +327,12 @@ footer {
 
 /*links dentro do rodape*/
 footer a {
-    color:#E3B665;
+    background-color: #E3B665;
+    border-radius: 16px;
+    border: 1px solid white;
+    color:#1F5B56;
     text-decoration: none;
+    padding: 0.5rem;
 }
 
 section {
@@ -388,7 +392,7 @@ img {
 
 .smoothie img {
     height: 200px;
-    width: 200px;
+    width: 100px;
     border: 1px solid #1F5B56;
 }
 
